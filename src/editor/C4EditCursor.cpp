@@ -41,6 +41,7 @@
 #include "res/resource.h"
 #endif
 
+#include <limits>
 
 StdStrBuf C4EditCursorSelection::GetDataString() const
 {

@@ -41,6 +41,8 @@
 #include "player/C4PlayerList.h"
 #include "script/C4Effect.h"
 
+#include <limits>
+
 C4Object::C4Object()
 {
 	FrontParticles = BackParticles = nullptr;

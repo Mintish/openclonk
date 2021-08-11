@@ -43,6 +43,8 @@
 #include "player/C4Player.h"
 #include "player/C4PlayerList.h"
 
+#include <limits>
+
 // Adds some helpful logs for hunting control & menu based desyncs.
 //#define MenuDebugLogF(...) DebugLogF(__VA_ARGS__)
 #define MenuDebugLogF(...) ((void)0)

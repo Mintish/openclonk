@@ -29,6 +29,7 @@
 #include "script/C4AulExec.h"
 #include "platform/C4SoundInstance.h"
 
+#include <limits>
 
 /* Property delegate base class */
 

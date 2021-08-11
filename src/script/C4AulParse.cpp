@@ -26,6 +26,7 @@
 #define DEBUG_BYTECODE_DUMP 0
 #endif
 #include <iomanip>
+#include <limits>
 
 #define C4AUL_Include       "#include"
 #define C4AUL_Append        "#appendto"

@@ -26,6 +26,7 @@
 
 #include <type_traits>
 #include <typeinfo>
+#include <limits>
 
 class DummyScriptHost : public C4ScriptHost
 {
